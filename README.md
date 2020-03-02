@@ -5,8 +5,8 @@ cd (directory name)<br>
 mkdir (directory name)<br>
 
 ## git
-status <br>
-add (file name)<br>
-commit -m"Good commit message"<br>
-push<br>
-log<br>
+git status<br>
+git add (file name)<br>
+git commit -m "Good commit messages"<br>
+git push<br>
+git log<br>
