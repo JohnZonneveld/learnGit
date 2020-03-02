@@ -3,7 +3,7 @@
 ls<br>
 - list all folders and files<br>
 cd (directory name)<br>
-- change directory<br>S
+- change directory<br>
 mkdir (directory name)<br>
 - create folder<br>
 
@@ -15,6 +15,6 @@ git add (file name)<br>
 git commit -m "Good commit messages"<br>
 - save added file<br>
 git push<br>
-- publish
+- publish<br>
 git log<br>
-- general log for all the commits
+- general log for all the commits<br>
