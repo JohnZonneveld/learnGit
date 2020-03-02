@@ -1,6 +1,7 @@
 # learnGit
 
 ## bash
+<br>
 ls<br>
 - list all folders and files<br>
 cd (directory name)<br>
@@ -9,6 +10,7 @@ mkdir (directory name)<br>
 - create folder<br>
 
 ## git
+<br>
 git status<br>
 - information about repository<br>
 git add (file name)<br>
