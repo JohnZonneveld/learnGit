@@ -21,3 +21,4 @@ git push<br>
 - publish<br>
 git log<br>
 - general log for all the commits<br>
+- to exit log type 'q' to quit
